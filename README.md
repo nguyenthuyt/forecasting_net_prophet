@@ -79,7 +79,7 @@ Prophet is forecasting a slight drop in popularity of MercadoLibre.
 The peak revenue days are Wednesday followed by Tuesday.
 
 ![Mercado Sales Prophet Forecast](Images/sales_prophet_forecast.PNG)
-The forecasted total sales for next quarter will most likely be around 22,749M with the worst case of 20,834M and best case of 24,678M.
+The forecasted total sales for next quarter will most likely be around 969.58M with the worst case of 887.18M and best case of 1051.92M.
 
 ---
 
