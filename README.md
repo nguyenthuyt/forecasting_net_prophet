@@ -59,7 +59,7 @@ The search traffic is variable throughout the winter holiday period but graduall
 ![Mercado Stock Price](Images/mercado_stock_price.PNG)
 ![1st half 2020 Stock Price/Trends](Images/first_half_2020.PNG)
 
-Market events emerged during the year of 2020 that many companies found difficult. But, after the initial shock to global financial markets, new customers and revenue increased for e-commerce platforms. The two preceding graphs is in line with this narrative as there is a huge drop in mid-March 2020 for both stock prices and search trends that subsequently picks back up and increases beginning April 2020 when market confidence is restored.
+Market events emerged during the year of 2020 that many companies found difficult. But, after the initial shock to global financial markets, new customers and revenue increased for e-commerce platforms. The two preceding graphs are in line with this narrative as there is a huge drop in mid-March 2020 for both stock prices and search trends that subsequently picks back up and increases beginning April 2020 when market confidence is restored.
 
 ![Stock Price/Volatility/Lagged Search Trends](Images/correlation.PNG)
 Neither stock volatility nor stock price returns has a strong predictable relationship with lagged search traffic.
